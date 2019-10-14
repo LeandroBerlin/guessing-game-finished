@@ -36,21 +36,3 @@ function guessing_game() {
 guessing_game()
 
 
-
-
-
-/*
-this is a "workaround" to publish the exercise on github! (our own github)
-
-GITHUB CLASSROOM ISSUE!
-
-- delete .git from project folder
-rm -rf .git
-
-- init git again
-git init
-
-- create a repo on your github
-git add remote origin <repo_name>
-
-*/
